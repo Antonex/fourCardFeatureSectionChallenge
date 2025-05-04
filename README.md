@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Antonex/fourCardFeatureSectionChallenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Antonex/fourCardFeatureSectionChallenge)
+- Live Site URL: [Live site](https://antonex.github.io/fourCardFeatureSectionChallenge/)
 
 ## My process
 
